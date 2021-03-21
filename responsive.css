@@ -1,0 +1,728 @@
+/*		Medium Device	*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .number-area p {
+        margin-right: 15px;
+
+    }
+
+    .popular-content {
+        padding: 30px 20px;
+    }
+
+    .slide-tab-cell h2 {
+        font-size: 34px;
+    }
+
+    ul#mesonary-nav li {
+        font-size: 17px;
+        padding: 0 4px;
+
+    }
+
+    .rating h5 {
+        font-size: 14px;
+    }
+
+    .discount-area h2 {
+        font-size: 24px;
+
+    }
+
+    .single-event h3 {
+        font-size: 20px;
+    }
+
+    .single-event h4 {
+        font-size: 17px;
+    }
+
+    .single-event h4 .svg-inline--fa.fa-clock.fa-w-16 {
+        font-size: 17px;
+    }
+
+    .single-event {
+        background: none;
+        padding: 35px;
+    }
+
+    .single-event p {
+        padding: 0;
+    }
+
+
+    .teacher-social li a {
+        padding: 9px 15px;
+    }
+
+    .teacher-detail h4 {
+        font-size: 18px;
+    }
+
+    .teacher-social {
+        height: 212px;
+    }
+
+    .teacher-detail {
+        height: 200px;
+    }
+
+    .time-date {
+        padding: 45px 15px;
+    }
+
+    .shedule h6 {
+        margin-left: 2px;
+        margin-right: 8px;
+    }
+
+    .blog-card-hover .shedule h6 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .blog-card-hover .shedule {
+        margin-bottom: 10px;
+    }
+
+    .contact-info input[type="submit"],
+    input[type="text"],
+    input[type="email"],
+    input[type="tel"],
+    input[type="Message"] {
+        width: 46%;
+    }
+
+    .sign-up-area textarea {
+        width: 64%;
+    }
+
+    .footer-area a {
+        font-size: 14px;
+    }
+
+    .logo-text h5 {
+        font-size: 14px;
+    }
+
+    .logo-text span {
+        font-size: 13px;
+        padding: 0 8px;
+    }
+    
+.comment-area .sign-up-area input[type="text"] {
+  margin-right: 38px;
+}
+    
+.comment-area .sign-up-area input[type="email"],.comment-area .sign-up-area input[type="text"]  {
+  margin-bottom: 10px;
+}
+
+}
+
+/*		Tablet Layout: 768px.	*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ header {
+  padding: 20px;
+
+}
+    .logo img {
+  width: 80%;
+}
+    #header-sticky-wrapper.sticky-wrapper {
+        background: #f2f2f2 none repeat scroll 0 0;
+        height: 65px !important;
+    }
+
+    .hero-area .owl-nav div {
+        background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
+        border-radius: 50%;
+        color: #fff;
+        font-size: 18px;
+        height: 30px;
+        left: 50%;
+        line-height: 24px;
+        margin-left: -40px;
+        position: absolute;
+        text-align: center;
+        top: 90%;
+        transition: all 0.3s ease 0s;
+        width: 30px;
+    }
+
+    .hero-area .owl-nav div.owl-next {
+        margin-right: -36px;
+        right: 50%;
+    }
+
+    .slide-tab {
+        text-align: center;
+    }
+
+    .slide-tab-cell h2 {
+        font-size: 35px;
+
+    }
+.single-bg2::after, .single-bg1::after, .single-bg3::after, .single-bg4::after {
+  width: 68%;
+
+}
+    .main-slider .owl-prev span,
+    .main-slider .owl-next span {
+        height: 10px;
+        width: 10px;
+        margin: 0;
+        margin-top: -5px;
+    }
+
+    .res-pad-top-30 {
+        margin-top: 30px;
+    }
+    .mr-tp-md-30{
+        margin-top: 30px
+    }
+
+    ul#mesonary-nav li {
+        padding: 0 7px;
+    }
+
+    .single-course img {
+        width: 100%;
+    }
+
+    .rating h5 {
+        margin-right: 8px;
+
+    }
+
+    .discount-area h2.h2-light {
+        font-size: 25px;
+
+    }
+
+    .discount-area h2 {
+        font-size: 25px;
+    }
+
+    .biddaloy-btn {
+        padding: 13px 34px;
+    }
+
+    .teacher-to-card img {
+        width: 100%;
+    }
+
+    .teacher-social {
+        height: 66%;
+    }
+
+    .blog-card-hover h4 {
+        font-size: 16px;
+        margin: 5px 0;
+    }
+
+    .shedule {
+        margin-bottom: 5px;
+    }
+
+    .shedule h6 {
+        margin-left: 4px;
+        margin-right: 13px;
+    }
+
+    .readmore {
+        margin-bottom: 20px;
+    }
+
+    .bottom-footer {
+        margin-top: 30px;
+    }
+
+    .footer-area h5 {
+        font-size: 15px;
+
+    }
+
+    .footer-nav {
+        margin-left: 0px;
+    }
+
+    .logo-text {
+        text-align: center;
+    }
+    
+    
+.comment-area .sign-up-area input[type="text"] {
+  margin-right: 38px;
+}
+    
+.comment-area .sign-up-area input[type="email"],.comment-area .sign-up-area input[type="text"]  {
+  margin-bottom: 10px;
+}
+    
+    
+.corrse-info-ditels li::after {
+    display: none;
+}
+.corrse-info-ditels li {
+  padding: 5px 0;
+
+}
+}
+
+/*		Mobile Layout: 320px.    */
+
+@media only screen and (max-width: 767px) {
+    .number-area {
+        display: flex;
+        justify-content: center;
+    }
+
+    .number-area p {
+        margin: 0;
+        padding: 0 20px 10px;
+    }
+
+    .login-reg {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+ header {
+  padding: 20px;
+
+}
+ 
+    .logo img {
+  width: 80%;
+}
+
+    /*  Hero area    */
+    .main-slider .owl-prev span,
+    .main-slider .owl-next span {
+        height: 10px;
+        width: 10px;
+        margin: 0;
+        margin-top: -5px;
+    }
+
+    .single-slider-item {
+        height: 460px;
+    }
+
+    .slide-tab-cell h2 {
+        font-size: 25px;
+
+    }
+
+    .slide-tab-cell p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .slide-tab .search {
+        padding: 10px 12px;
+
+    }
+
+    .search-icon {
+        height: 44px;
+        padding: 10px 20px;
+
+    }
+
+    .slide-tab-cell {
+        text-align: center;
+    }
+
+    .hero-area .owl-nav div {
+        background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
+        border-radius: 50%;
+        color: #fff;
+        font-size: 18px;
+        height: 30px;
+        left: 50%;
+        line-height: 24px;
+        margin-left: -40px;
+        position: absolute;
+        text-align: center;
+        top: 90%;
+        transition: all 0.3s ease 0s;
+        width: 30px;
+    }
+
+    .hero-area .owl-nav div.owl-next {
+        margin-right: -36px;
+        right: 50%;
+    }
+
+    /* popular courses   */
+
+    .section-padding {
+        padding: 50px 0;
+    }
+
+    .col-lg-3.text-right {
+        text-align: center !important;
+    }
+
+    .section-heading {
+        text-align: center;
+    }
+
+    .section-heading h2 {
+        font-size: 25px;
+        line-height: 24px;
+    }
+.vision-area .section-heading h2 {
+  font-size: 25px;
+  line-height: 33px;
+}
+    .section-heading p {
+        padding: 20px 0 25px;
+    }
+
+    .popular-courses .biddaloy-btn {
+        margin-bottom: 20px;
+    }
+
+    .ma-top-60 {
+        margin-top: 12px;
+        text-align: center !important;
+    }
+
+    .res-pad-top-30 {
+        padding-top: 5px
+    }
+
+    .mob-to-res-30 {
+        margin-top: 30px;
+    }
+    .res-pad-top-non-30 {
+  margin-top: 0;
+}
+    #mesonary-nav {
+        margin: 0;
+    }
+
+    .teacher-area .col-lg-3:first-child .single-teacher {
+        margin: 0;
+    }
+
+    /*======== All courses ======== */
+
+    .single-course img {
+        width: 100%;
+    }
+
+
+    .pad-30-15 {
+        padding-bottom: 55px;
+        padding-left: 18px;
+        padding-right: 15px;
+    }
+
+    .course-btn {
+        margin-bottom: 20px;
+        margin-top: 30px;
+        padding-top: 5px;
+
+    }
+
+    .single-course h6 {
+        margin-bottom: 15px;
+
+    }
+
+    ul#mesonary-nav li {
+        background: #ededed none repeat scroll 0 0;
+        font-size: 15px;
+        font-weight: 500;
+        margin: 5px;
+        padding: 2px 10px;
+    }
+
+    /*============== discount Area===============*/
+
+    .discount-area {
+        text-align: center;
+    }
+
+    .discount-area h2.h2-light {
+        font-size: 25px;
+    }
+
+    .discount-area h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .discount-area p {
+        padding: 20px;
+    }
+
+
+    /*==============Event Area ===============*/
+
+    .single-event {
+        background: none;
+        text-align: center;
+    }
+
+    .single-event p {
+        padding: 0;
+    }
+
+    .single-event h6 {
+        width: inherit;
+    }
+
+    .single-event h3 {
+        font-size: 18px;
+        line-height: 27px;
+        width: 100%;
+    }
+
+    /*============== All Teacher Area===============*/
+    .teacher-to-card img {
+        width: 100%;
+    }
+
+    .teacher-detail p {
+        padding: 0 30px;
+    }
+
+    /*============== Blog Area===============*/
+
+    .single-blog {
+        margin: 0 auto 30px;
+        max-width: 360px;
+    }
+
+    .blog-area .col-lg-4 .single-blog .time-date:first-child {
+        margin: 0;
+    }
+
+    .blog-area a.biddaloy-btn.mar-top-40 {
+        margin: 0;
+    }
+
+    .shedule h6 {
+        margin: 0;
+    }
+
+    .single-blog .shedule .fa-user,
+    .single-blog .shedule .fa-clock,
+    .single-blog .shedule .fa-calendar-alt {
+        font-size: 14px;
+        margin: 0 5px 0 20px;
+    }
+
+    .single-blog .shedule .fa-user {
+        margin-left: 0;
+    }
+
+   .subscribe input[type="email"] {
+  margin-top: 0;
+  padding: 8px 15px;
+}
+
+    .subscribe input[type="submit"] {
+        padding: 8px;
+        position: inherit;
+    }
+
+    p.submit-btn input {
+        display: inline-block !important;
+        text-align: center;
+    }
+
+   .subscribe-option form input[type="submit"] {
+  margin: 15px auto 0;
+}
+
+.sign-up-area textarea, .contact-info input[type="submit"], input[type="text"], input[type="email"], input[type="tel"], input[type="Message"] {
+  float: inherit;
+  margin-bottom: 25px;
+  margin-right: 0;
+  width: 100%;
+}
+.sign-up-area textarea {
+  line-height: 10px;
+  margin-top: 10px;
+
+
+}
+
+    .sign-up-area .submit-btn {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .sign-up-area input[type="submit"] {
+        padding: 7px 25px;
+
+    }
+
+    section.contact-area {
+        text-align: center;
+    }
+
+    .logo-text {
+        text-align: center;
+    }
+
+    .footer-nav {
+        margin-left: 0px;
+    }
+
+    .footer-area ul li {
+        text-align: center;
+    }
+
+    .bottom-footer {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .social-info {
+        text-align: center;
+    }
+
+    .social-info a {
+        margin-top: 10px;
+    }
+
+    .footer-area h5 {
+        font-size: 14px;
+
+    }
+.footer-area a {
+  font-size: 14px;
+
+}
+    .social-info h5 {
+        margin-bottom: 0;
+    }
+
+    .bottom-footer h5 {
+        line-height: 30px;
+    }
+
+    .footer-area ul li {
+    margin-bottom: 12px;
+}
+
+    /*============= About Page ===========*/
+    .all-page-hero {
+        height: 290px;
+    }
+
+    .page-content a {
+        font-size: 17px;
+    }
+
+    .page-content h2 {
+        font-size: 30px;
+        line-height: 26px;
+        margin-bottom: 10px;
+    }
+
+.vision-area .section-heading p {
+  color: #3f3e3e;
+  padding: 15px 0 50px;
+  text-align: center;
+  width: 100%;
+}
+
+    .single-vision {
+        padding: 50px 0;
+    }
+
+    .pad-top--90 {
+        margin-top: -50px;
+    }
+
+    .vision-video {
+        padding: 50px 0;
+    }
+
+    .vision-video-btn h3 {
+        font-size: 23px;
+        margin-top: 27px;
+        letter-spacing: 1px;
+    }
+
+
+
+/*==========================
+Course Information Page Start
+============================ */
+    .course-name h2 {
+        font-size: 19px;
+        line-height: 26px;
+    }
+
+    .course-name h4 {
+        line-height: 25px;
+        margin-bottom: 45px;
+        margin-top: 15px;
+    }
+
+    .course-name span {
+        float: left;
+        margin-right: 30px;
+    }
+
+    .course-name h1 {
+        font-size: 25px;
+        margin-bottom: -10px;
+    }
+
+    .shedule {
+        margin-bottom: 5px;
+    }
+
+    .shedule {
+        margin: 0 6px 5px;
+        text-align: center;
+        display: inherit;
+    }
+    
+    
+.motivation-social {
+  position: inherit;
+
+}
+.motivation-social a {
+  padding: 0 17px;
+}
+    
+.comment-area .sign-up-area input[type="text"] {
+  margin-right: 0;
+  width: 100%;
+}
+.corrse-info-ditels li::after {
+    display: none;
+}
+.corrse-info-ditels li {
+  padding: 5px 0;
+
+    }
+.section-top-30 {
+    margin-top: 0px;
+}
+}
+
+
+/*		Wide Mobile Layout: 480px.    */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    /*==============Aboute Area=================*/
+ .shedule {
+display: flex;
+margin: 0;
+text-align: inherit;
+    }
+}
